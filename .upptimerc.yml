@@ -4,7 +4,7 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: Plex
-    url: https://plex.eighty-three.me:32400/identity
+    url: http://plex.eighty-three.me:32400/identity
 
 assignees: # Users to assign downtime issues (optional)
   - tuxpeople
