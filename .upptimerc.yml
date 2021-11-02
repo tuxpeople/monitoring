@@ -41,7 +41,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Status of some of my stuff"
-  introMessage: This is a test of [Upptime](https://github.com/upptime/upptime).
+  introMessage: This is a test of [Upptime](https://github.com/upptime/upptime). The interesting thing about Upptime is: no server required — just GitHub Actions, Issues, and Pages
   navbar:
     - title: Status
       href: /
