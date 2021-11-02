@@ -6,29 +6,29 @@ sites:
   - name: Plex
     url: http://plex.eighty-three.me:32400/identity
   - name: Wallabag
-    url: wallabag.eighty-three.me
+    url: https://wallabag.eighty-three.me
   - name: Code Server
-    url: code.eighty-three.me
+    url: https://code.eighty-three.me
   - name: Dokuwiki
-    url: wiki.eighty-three.me
+    url: https://wiki.eighty-three.me
   - name: Gitea
-    url: git.eighty-three.me
+    url: https://git.eighty-three.me
   - name: Gollum
-    url: wiki2.eighty-three.me
+    url: https://wiki2.eighty-three.me
   - name: Grafana
-    url: grafana.eighty-three.me
+    url: https://grafana.eighty-three.me
   - name: Alertmanager
-    url: alertmanager.eighty-three.me
+    url: https://alertmanager.eighty-three.me
   - name: Prometheus
-    url: prometheus.eighty-three.me
+    url: https://prometheus.eighty-three.me
   - name: Speedtest Plotter
-    url: speed.eighty-three.me
+    url: https://speed.eighty-three.me
   - name: Codimd
-    url: codimd.eighty-three.me
+    url: https://codimd.eighty-three.me
   - name: Hasteserver
-    url: paste.eighty-three.me
+    url: https://paste.eighty-three.me
   - name: Sharry
-    url: share.eighty-three.me
+    url: https://share.eighty-three.me
 
 assignees: # Users to assign downtime issues (optional)
   - tuxpeople
