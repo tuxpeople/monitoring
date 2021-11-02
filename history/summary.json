@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/code.eighty-three.me",
     "slug": "code-server",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1213,
     "timeDay": 1213,
     "timeWeek": 1213,
     "timeMonth": 1213,
     "timeYear": 1213,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dokuwiki",
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/wiki.eighty-three.me",
     "slug": "dokuwiki",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 842,
     "timeDay": 842,
     "timeWeek": 842,
     "timeMonth": 842,
     "timeYear": 842,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitea",
@@ -99,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/wiki2.eighty-three.me",
     "slug": "gollum",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 850,
     "timeDay": 850,
     "timeWeek": 850,
     "timeMonth": 850,
     "timeYear": 850,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana",
@@ -139,19 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/alertmanager.eighty-three.me",
     "slug": "alertmanager",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 808,
     "timeDay": 808,
     "timeWeek": 808,
     "timeMonth": 808,
     "timeYear": 808,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prometheus",
@@ -159,19 +151,17 @@
     "icon": "https://favicons.githubusercontent.com/prometheus.eighty-three.me",
     "slug": "prometheus",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 845,
     "timeDay": 845,
     "timeWeek": 845,
     "timeMonth": 845,
     "timeYear": 845,
-    "dailyMinutesDown": {
-      "2021-11-02": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Speedtest Plotter",
