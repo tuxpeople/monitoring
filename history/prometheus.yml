@@ -1,7 +1,7 @@
 url: https://prometheus.eighty-three.me
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2021-11-15T06:27:08.974Z
+status: down
+code: 404
+responseTime: 325
+lastUpdated: 2021-11-15T13:59:03.998Z
 startTime: Tue Nov 02 2021 18:42:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
