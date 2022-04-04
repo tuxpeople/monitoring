@@ -1,7 +1,7 @@
 url: https://alertmanager.eighty-three.me
-status: down
-code: 404
-responseTime: 334
-lastUpdated: 2022-04-03T23:04:47.709Z
+status: up
+code: 200
+responseTime: 1096
+lastUpdated: 2022-04-04T13:47:30.340Z
 startTime: Tue Nov 02 2021 18:42:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
