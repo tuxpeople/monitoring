@@ -9,12 +9,6 @@ sites:
     url: https://wallabag.eighty-three.me
   - name: Code Server
     url: https://code.eighty-three.me
-  - name: Dokuwiki
-    url: https://wiki.eighty-three.me
-  - name: Gitea
-    url: https://git.eighty-three.me
-  - name: Gollum
-    url: https://wiki2.eighty-three.me
   - name: Grafana
     url: https://grafana.eighty-three.me
   - name: Alertmanager
@@ -27,8 +21,6 @@ sites:
     url: https://codimd.eighty-three.me
   - name: Hasteserver
     url: https://paste.eighty-three.me
-  - name: Sharry
-    url: https://share.eighty-three.me
 
 assignees: # Users to assign downtime issues (optional)
   - tuxpeople
