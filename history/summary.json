@@ -4,17 +4,17 @@
     "url": "http://plex.eighty-three.me:32400/identity",
     "icon": "https://icons.duckduckgo.com/ip3/plex.eighty-three.me.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
+    "time": 352,
     "timeDay": 205,
     "timeWeek": 264,
     "timeMonth": 291,
-    "timeYear": 353,
+    "timeYear": 352,
     "dailyMinutesDown": {}
   }
 ]
