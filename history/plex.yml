@@ -1,7 +1,7 @@
 url: http://plex.eighty-three.me:32400/identity
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-21T19:15:34.122Z
+status: up
+code: 200
+responseTime: 459
+lastUpdated: 2023-12-21T19:22:24.535Z
 startTime: 2023-03-16T16:52:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
